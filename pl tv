@@ -1,0 +1,48 @@
+#EXTINF:-1  group-title="Польша"  tvg-id="TVP HD PL"  tvg-logo="[img]https://icon.biluspeh.com/icon/TVP.png[/img]"   catchup-days="0", TVP HD PL
+http://live.biluspeh.com/8303/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Польша"  tvg-id="TVP 1 HD PL"  tvg-logo="[img]https://icon.biluspeh.com/icon/TVP%201%20FHD%20PL.png[/img]"   catchup-days="0", TVP 1 HD PL
+http://live.biluspeh.com/8858/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Польша"  tvg-id="TVP 2 HD PL"  tvg-logo="[img]https://icon.biluspeh.com/icon/TVP%202%20HD%20PL.png[/img]"   catchup-days="0", TVP 2 HD PL
+http://live.biluspeh.com/8774/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Польша"  tvg-id="TVP 3 PL"  tvg-logo="[img]https://icon.biluspeh.com/icon/TVP%203%20Warszawa%20PL.png[/img]"   catchup-days="0", TVP 3 PL
+http://live.biluspeh.com/8834/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Польша"  tvg-id="TVP INFO HD PL"  tvg-logo="[img]https://icon.biluspeh.com/icon/TVP%20Info.png[/img]"   catchup-days="0", TVP INFO HD PL
+http://live.biluspeh.com/8859/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Польша"  tvg-id="TV4 HD PL"  tvg-logo="[img]https://icon.biluspeh.com/icon/TV4%20HD%20PL.png[/img]"   catchup-days="0", TV4 HD PL
+http://live.biluspeh.com/8829/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Польша"  tvg-id="TV6 HD PL"  tvg-logo="[img]https://icon.biluspeh.com/icon/TV6%20FHD%20PL.png[/img]"   catchup-days="0", TV6 HD PL
+http://live.biluspeh.com/8790/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Польша"  tvg-id="TVS PL"  tvg-logo="[img]https://icon.biluspeh.com/icon/TVS.png[/img]"   catchup-days="0", TVS PL
+http://live.biluspeh.com/8950/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Польша"  tvg-id="TV PULS HD PL"  tvg-logo="[img]https://icon.biluspeh.com/icon/TV%20Puls.png[/img]"   catchup-days="0", TV PULS HD PL
+http://live.biluspeh.com/8864/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Польша"  tvg-id="Polsat HD PL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Polsat%20HD%20PL.png[/img]"   catchup-days="0", Polsat HD PL
+http://live.biluspeh.com/8409/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Польша"  tvg-id="Polsat 2 HD PL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Polsat%202%20HD%20PL.png[/img]"   catchup-days="0", Polsat 2 HD PL
+http://live.biluspeh.com/8953/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Польша"  tvg-id="Polsat News 2 PL"  tvg-logo="[img]https://icon.biluspeh.com/icon/POLSAT%20NEWS%202%20HD%20PL.png[/img]"   catchup-days="0", Polsat News 2 PL
+http://live.biluspeh.com/8787/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Польша"  tvg-id="Polsat Sport 1 PL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Polsat%20Sport%20HD%20PL.png[/img]"   catchup-days="0", Polsat Sport 1 PL
+http://live.biluspeh.com/8566/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Польша"  tvg-id="Polsat Sport 2 PL"  tvg-logo="[img]https://icon.biluspeh.com/icon/Polsat%20Sport%20FHD%20PL.png[/img]"   catchup-days="0", Polsat Sport 2 PL
+http://live.biluspeh.com/8564/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Польша"  tvg-id="Nickelodeon PL"  tvg-logo="[img]https://icon.biluspeh.com/icon/NICKELODEON%20SE.png[/img]"   catchup-days="0", Nickelodeon PL
+http://live.biluspeh.com/9210/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Польша"  tvg-id="AXN HD PL"  tvg-logo="[img]https://icon.biluspeh.com/icon/AXN%20HD%20RO.png[/img]"   catchup-days="0", AXN HD PL
+http://live.biluspeh.com/9212/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Польша"  tvg-id="AXN SPIN HD PL"  tvg-logo="[img]https://icon.biluspeh.com/icon/AXN%20SPIN%20RO.png[/img]"   catchup-days="0", AXN SPIN HD PL
+http://live.biluspeh.com/9211/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Польша"  tvg-id="TVN HD PL"  tvg-logo="[img]https://icon.biluspeh.com/icon/TVN%20FHD%20PL.png[/img]"   catchup-days="0", TVN HD PL
+http://live.biluspeh.com/9213/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Польша"  tvg-id="TVN 7 HD PL"  tvg-logo="[img]https://icon.biluspeh.com/icon/TVN%207%20HD%20PL.png[/img]"   catchup-days="0", TVN 7 HD PL
+http://live.biluspeh.com/9218/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Польша"  tvg-id="TVN Fabula HD PL"  tvg-logo="[img]https://icon.biluspeh.com/icon/TVN%20Fabula%20FHD%20PL.png[/img]"   catchup-days="0", TVN Fabula HD PL
+http://live.biluspeh.com/9214/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Польша"  tvg-id="TVN24 BiS HD PL"  tvg-logo="[img]https://icon.biluspeh.com/icon/TVN%2024%20FHD%20PL.png[/img]"   catchup-days="0", TVN24 BiS HD PL
+http://live.biluspeh.com/9215/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Польша"  tvg-id="TVN Style HD PL"  tvg-logo="[img]https://icon.biluspeh.com/icon/TVN%20Style%20PL.png[/img]"   catchup-days="0", TVN Style HD PL
+http://live.biluspeh.com/9216/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1  group-title="Польша"  tvg-id="TVN Turbo HD PL"   catchup-days="0", TVN Turbo HD PL
+http://live.biluspeh.com/9217/video.m3u8?token=M4xovdRfcMXMXS9M
+#EXTINF:-1, Приятного просмотра
+https://alensat.at.ua/alensat.com.mp4
